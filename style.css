@@ -16,18 +16,9 @@
     position: absolute;
     top: 10px;
     left: 10px;
-    width: 70px;
+    width: 240px;
   }
-  #logotext{
-    position: absolute;
-    color: #fff;
-    margin-top: -700px;
-    margin-right: 82%;
-    font-size: 38px;
-  }
-  #share{
-    color: #0088ff;
-  }
+ 
   .image-vector {
     width: 40vw;
     height: 40vh;
@@ -295,11 +286,6 @@
     .email-container .filed {
       width: 300px;
     }
-    #logotext{
-      position: absolute;
-      color: #fff;
-      margin-top: -624px;
-      margin-right: 48%;
-      font-size: 38px;
-    }
+    
   }
+
